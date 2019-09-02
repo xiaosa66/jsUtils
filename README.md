@@ -38,6 +38,7 @@
             获得三创赛北京赛区第一名，全国一等奖。　
             小程序使用原生技术，后端使用微信提供的云开发（sass）。
             [![地址](https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/IMG_5918.JPG)]
+            ![我的头像](https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/IMG_5918.JPG)
 
 
         2.果蔬好电商网站
