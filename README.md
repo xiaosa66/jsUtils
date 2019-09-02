@@ -15,9 +15,11 @@
         github : https://github.com/xiaosa66
 
 ### 专业技能 ：
-        JavaScript : 75'
-        HTML       : 80'
-        CSS        : 65'
+        
+| JavaScript | 75' |  5 |
+| HTML        |   \$12  |
+| CSS        |   \65'   |
+
 ---
 ### 实习经历 ：
     
