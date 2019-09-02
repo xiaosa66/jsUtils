@@ -37,7 +37,7 @@
             一个校园比赛项目，包含论坛功能（因为没有相文件　改成留言得以过审）与商城功能（因为没有资质　以网站的方式在小程序内打开　暂时无法支付）。
             获得三创赛北京赛区第一名，全国一等奖。　
             小程序使用原生技术，后端使用微信提供的云开发（sass）。
-            ![地址](https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/IMG_5918.JPG)
+            [![地址](https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/IMG_5918.JPG)]
 
 
         2.果蔬好电商网站
