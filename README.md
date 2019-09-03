@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  <img alt="logo" src="https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/IMG_5926.JPG" width="100" max-width="100%">
+  <img alt="avatar" src="https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/IMG_5926.JPG" width="100" max-width="100%">
 </p>
 
 ## 基本资料 : 
@@ -51,7 +51,7 @@ github : https://github.com/xiaosa66
 
 1.醉非遗　小程序
 <p align="center">
-  <img alt="logo" src="https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/IMG_5918.JPG" width="100" max-width="100%">
+  <img alt="minaCode" src="https://zuifeiyi-1258006205.cos.ap-beijing.myqcloud.com/IMG_5918.JPG" width="100" max-width="100%">
 </p>
 
     2019/08 - 2019/08
